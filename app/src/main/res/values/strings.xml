@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Current week</string>
+
+    <!-- MainActivity -->
+    <string name="add_date_day">What\'s the current week number?</string>
+    <string name="send_date_day">Check</string>
+    <string name="error_empty_date">Introduce the current week number</string>
+    <string name="error_number">This number is not valid</string>
+
+    <!-- ResultActivity -->
+    <string name="title_activity_result">Result</string>
+    <string name="right_result">Right!!</string>
+    <string name="fail_result">You have failed, try again!!</string>
+    <string name="button_try_again">Try again</string>
+    <string name="button_start_again">Start again</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Setmana actual</string>
+
+    <!-- MainActivity -->
+    <string name="add_date_day">Quin és el número de l\'actual setmana?</string>
+    <string name="send_date_day">Comprovar</string>
+    <string name="error_empty_date">Introdueix el número de la setmana actual</string>
+    <string name="error_number">Aquest número no és vàlid</string>
+
+    <!-- ResultActivity -->
+    <string name="title_activity_result">Resultat</string>
+    <string name="right_result">Correcte!!</string>
+    <string name="fail_result">Has fallat, ¡¡prova-ho de nou!!</string>
+    <string name="button_try_again">Intentar de nou</string>
+    <string name="button_start_again">Començar de nou</string>
+</resources>
